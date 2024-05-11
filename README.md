@@ -2,7 +2,7 @@
 
 ![image](https://github.com/gm3/globaltribes-research/assets/7612104/a0077a39-9110-464f-9323-4cc9bf0d0e8d)
 
-
+- Website / Project Submissions https://globaltribes.art/
 - [What is Global Tribes?](#what-is-global-tribes)
 - [Why did we create it?](#why-did-we-create-it)
 - [Average Schedule](#average-schedule)
