@@ -20,13 +20,6 @@ Our creative lab, founded by Tom Laroc, was created to foster collaborations amo
 
 Over the last 2 years, our network has connected the dots across various industries. We help, organize, find alignment between people, projects, potential opportunities, build, raise funding, and complete projects with our team.
 
-## Average Schedule
-
-- **8am-10am Monday Thru Friday:** [Twitter Updates](https://twitter.com/AIARtTOday)
-- **10am-2pm:** Writers room in Jitsi [Join Here](https://meet.jit.si/globaltribes_project_001)
-- **4pm-6pm:** Jitsi [Join Here](https://meet.jit.si/globaltribes_project_001)
-- **10pm-2am:** Late Night Jam Sesh [Join Here](https://meet.jit.si/globaltribes_project_001)
-
 ## How we like to work
 
 Our working group operates in an open and transparent nature, publishing our research for years now, and frequently host rooms to foster our goals and the overall mission, to do our best work. We hold each other accountable for documentation, so that we can capture value aligned opportunities, by engineering win-win solutions in a practical and achievable way.
