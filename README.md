@@ -1,4 +1,4 @@
-# Global Tribes Lab Charter
+[# Global Tribes Lab Charter
 
 ## What is Global Tribes?
 Global Tribes Lab is a cutting-edge creative lab dedicated to delivering innovative solutions to modern challenges. Supporting a diverse clientele, we are focused on staying at the forefront of emerging technologies.
@@ -12,3 +12,4 @@ Our working group operates in an open and structured method. We host daily dicus
 ## Contact
 **Daily Meetup**: https://meet.jit.si/globaltribes_project_001 (Join in Browser)
 
+](https://github.com/gm3/globaltribes)
