@@ -1,4 +1,4 @@
-[# Global Tribes Lab Charter
+# Global Tribes Lab Charter
 
 ## What is Global Tribes?
 Global Tribes Lab is a cutting-edge creative lab dedicated to delivering innovative solutions to modern challenges. Supporting a diverse clientele, we are focused on staying at the forefront of emerging technologies.
